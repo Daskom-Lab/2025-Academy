@@ -64,6 +64,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Shakia Krisna](https://github.com/shakiakrisss) [SAA]
   > As an academician.
+- [Alisha Shafira Qolby](https://github.com/lishafira) [LIS]
+  > As an academician.
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
